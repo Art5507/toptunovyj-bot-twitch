@@ -1,0 +1,1 @@
+TOKEN = '' # Введите токен Twitch, сгенерированный через сайт https://twitchtokengenerator.com/
